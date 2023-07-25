@@ -1,0 +1,8 @@
+server:
+  port: 9090
+sts:
+  uri: "http://localhost:80"
+  correlationID: "abc"
+  flowID: "abc"
+  clientID: "itau"
+  clientSecret: "abc"
